@@ -1,0 +1,31 @@
+{
+  "name": "pocui5",
+  "version": "1.0.0",
+  "description": "Study OpenUI5",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/laytzehwu/pocui5.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OpenUI5"
+  ],
+  "author": "Lay",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.6.1",
+    "eslint-plugin-prefix": "^0.3.0",
+    "grunt": "^1.0.1",
+    "grunt-connect-proxy": "^0.2.0",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-eslint": "^20.1.0",
+    "grunt-middleware-proxy": "^1.0.7",
+    "grunt-open": "^0.2.3",
+    "grunt-ui5": "^0.2.0"
+  }
+}
